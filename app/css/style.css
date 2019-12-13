@@ -511,6 +511,10 @@ input[type="submit"] {
           animation-fill-mode: forwards;
 }
 
+.wow {
+  visibility: hidden;
+}
+
 @-webkit-keyframes fadeIn {
   0% {
     opacity: 0;
